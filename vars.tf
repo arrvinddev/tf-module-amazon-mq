@@ -17,5 +17,5 @@ variable "port_no" {
 }
 
 variable "instance_type"{}
-
+variable "domain_id" {}
 
